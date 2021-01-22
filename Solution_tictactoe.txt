@@ -100,9 +100,9 @@ void turn()
 		computerboard[0][2]==comp; 
 		else if(comp==7)
 		computerboard[0][1]==comp;
-		else if(comp==3)
+		else if(comp==8)
 		computerboard[2][2]==comp; 
-		else if(comp==3)
+		else if(comp==9)
 		computerboard[1][0]==comp; 
             }
             else
