@@ -76,8 +76,7 @@ void turn()
                 computerboard[1][0]==comp;
                } 
              } 
-             
-             
+                 
              else
               {
                   cout<<"enter another no this was filled by computer";
@@ -117,8 +116,7 @@ void turn()
                diagcompcross();
     }  
     }
-    
-    
+       
 void win()
     {if(turn==user)
     cout<<"user has won";
